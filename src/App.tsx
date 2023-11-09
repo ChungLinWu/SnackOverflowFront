@@ -1,7 +1,9 @@
-import TestEntrance from './TestEntrance'
+import MainPage from './pages/MainPage'
 
 function App() {
-  return <div><TestEntrance /></div>
+  return <div>
+    <MainPage />
+  </div>
 }
 
 export default App
